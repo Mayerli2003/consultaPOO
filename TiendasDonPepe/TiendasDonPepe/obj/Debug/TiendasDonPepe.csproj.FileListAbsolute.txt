@@ -1,0 +1,7 @@
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TiendasDonPepe\TiendasDonPepe\obj\Debug\TiendasDonPepe.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TiendasDonPepe\TiendasDonPepe\obj\Debug\TiendasDonPepe.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TiendasDonPepe\TiendasDonPepe\bin\Debug\TiendasDonPepe.exe.config
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TiendasDonPepe\TiendasDonPepe\bin\Debug\TiendasDonPepe.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TiendasDonPepe\TiendasDonPepe\bin\Debug\TiendasDonPepe.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TiendasDonPepe\TiendasDonPepe\obj\Debug\TiendasDonPepe.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TiendasDonPepe\TiendasDonPepe\obj\Debug\TiendasDonPepe.pdb
