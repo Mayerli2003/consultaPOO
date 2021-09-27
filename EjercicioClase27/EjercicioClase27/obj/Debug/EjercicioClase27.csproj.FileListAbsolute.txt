@@ -1,0 +1,14 @@
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\EjercicioClase27\EjercicioClase27\bin\Debug\EjercicioClase27.exe.config
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\EjercicioClase27\EjercicioClase27\bin\Debug\EjercicioClase27.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\EjercicioClase27\EjercicioClase27\bin\Debug\EjercicioClase27.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\EjercicioClase27\EjercicioClase27\obj\Debug\EjercicioClase27.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\EjercicioClase27\EjercicioClase27\obj\Debug\EjercicioClase27.Properties.Resources.resources
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\EjercicioClase27\EjercicioClase27\obj\Debug\EjercicioClase27.Vistas.MenuAplicacion.resources
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\EjercicioClase27\EjercicioClase27\obj\Debug\EjercicioClase27.csproj.GenerateResource.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\EjercicioClase27\EjercicioClase27\obj\Debug\EjercicioClase27.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\EjercicioClase27\EjercicioClase27\obj\Debug\EjercicioClase27.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\EjercicioClase27\EjercicioClase27\obj\Debug\EjercicioClase27.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\EjercicioClase27\EjercicioClase27\obj\Debug\EjercicioClase27.Vistas.FrmDivision.resources
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\EjercicioClase27\EjercicioClase27\obj\Debug\EjercicioClase27.Vistas.FrmMultiplicacion.resources
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\EjercicioClase27\EjercicioClase27\obj\Debug\EjercicioClase27.Vistas.FrmResta.resources
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\EjercicioClase27\EjercicioClase27\obj\Debug\EjercicioClase27.Vistas.FrmSuma.resources
